@@ -2,11 +2,11 @@
  Geometry war game built with SFML library 
  
 ## Currently working:
--Player shape rendering + turning animation
--Player shape movement
--Player shape shooting
--Enemy logic and spawn logic
--Shooting logic and hit logic
+- Player shape rendering and turning animation
+- Player shape movement
+- Player shape shooting
+- Enemy logic and spawn logic
+- Shooting logic and hit logic
  
 ![Registers](/Screenshot.png)
 
